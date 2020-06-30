@@ -19,13 +19,13 @@ Orhan Dursun:
 Brainstorming und Recherche
 Implementierung
 
-Mert Kenan Haybat
+Mert Kenan Haybat:
 
 Brainstorming und Recherche
 Präsentation
 Dokumentation
 
-Yunus Yücel
+Yunus Yücel:
 
 Brainstorming und Recherche
 Dokumentation
