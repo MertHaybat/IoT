@@ -2,7 +2,7 @@
 
 
 <a href="https://www.youtube.com/watch?v=JhY92WWIYdw&feature=youtu.be">
-<img src="https://github.com/MertHaybat/IoT/blob/master/Thumbnail.png" alt="Video" width="100" height="132">
+<img src="https://github.com/MertHaybat/IoT/blob/master/Thumbnail.png" alt="Video" width="600" height="800">
 </a>
 
 <h2>Projektdokumentation</h2>
