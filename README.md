@@ -7,28 +7,14 @@ Hier kommt das Video
 
 Hier geht es zum <a href="https://github.com/MertHaybat/IoT/wiki">Wiki</a>
 
-<h3>Teamaufteilung</h3>
-
-Ersin Barut:
-
-Brainstorming und Recherche
-Dokumentation
-
-Orhan Dursun:
-
-Brainstorming und Recherche
-Implementierung
-
-Mert Kenan Haybat:
-
-Brainstorming und Recherche
-Präsentation
-Dokumentation
-
-Yunus Yücel:
-
-Brainstorming und Recherche
-Dokumentation
+<h2>Teamaufteilung</h2>
+<table>
+<tr><th>Name</th><th>Aufgabe</th></tr>
+<tr><td>Ersin Barut</td><td>Video, Brainstorming und Recherche</td></tr>
+<tr><td>Mert Haybat</td><td>Präsentation, Brainstorming und Recherche</td></tr>
+<tr><td>Orhan Dursun</td><td>Alexa Skill, Brainstorming und Recherche</td></tr>
+<tr><td>Yunus Yücel</td><td>Dokumentation, Brainstorming und Recherche</td></tr>
+</table>
 
 
 Repo / Wiki für die Dokumentation: https://github.com/MertHaybat/IoT/
