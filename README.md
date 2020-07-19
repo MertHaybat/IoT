@@ -1,6 +1,5 @@
 <h1> Note automation with Trello via IFTTT</h1>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JhY92WWIYdw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 <h2>Projektdokumentation</h2>
